@@ -138,4 +138,4 @@ MIT License — see [LICENSE](LICENSE)
 
 ---
 
-*Built for the AksaraBaru AI news pipeline. Extract, learn, improve.*
+*Built for the Openclaw pipeline. Extract, learn, improve.*
